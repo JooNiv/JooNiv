@@ -1,6 +1,6 @@
 ## Hello there <img src="Lightsaber_blue.png" width="35">
 
-I'm Joonas and here's some stuff about me
+I'm Joonas, here's some stuff about me:
 
 - 🖥️Currently Working at CSC - Finland as Junior Applications Specialist in Quantum Technologies
 - 👨‍🎓Doing my Master's degree in Aalto University on Quantum Technologies
