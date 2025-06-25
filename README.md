@@ -1,5 +1,5 @@
 ## Hello there 👋
-
+[lighsaber](Lightsaber_blue.png)
 I'm Joonas and here's some stuff about me
 
 - 🖥️Currently Working at CSC - Finland as Junior Applications Specialist in Quantum Technologies
