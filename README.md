@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm Joonas and here's some stuff about me
+
+- 🖥️Currently Working at CSC - Finland as Junior Applications Specialist in Quantum Technologies
+- 👨‍🎓Doing my Master's degree in Aalto University on Quantum Technologies
+- 🔭 I’m currently working on Quantun Circuit Knitting (check out [QCut](github.com/JooNiv/QCut))
+- 🔍 Find me on [LinkedIn](https://www.linkedin.com/in/joonasnivala/) or check out [jooniv.fi](jooniv.fi)
+
+Cheers 👋
 
 <!--
 **JooNiv/JooNiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
