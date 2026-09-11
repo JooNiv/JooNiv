@@ -4,7 +4,7 @@ I'm Joonas, here's some stuff about me:
 
 - 🖥️Currently Working at CSC - Finland as an Application Specialist in Quantum Technologies
 - 👨‍🎓Doing my Master's in Aalto University on Quantum Technologies
-- 🔭 I’m currently working on Quantun Circuit Knitting (check out [QCut](github.com/JooNiv/QCut))
+- 🔭 I’m currently working on Quantun Circuit Knitting (check out [QCut](github.com/fiqci/QCut))
 - 🔍 Find me on [LinkedIn](https://www.linkedin.com/in/joonasnivala/) or check out [jooniv.fi](https://www.jooniv.fi)
 
 Cheers 👋
